@@ -1,8 +1,11 @@
 # Agenda-reactjs  
   
 ☑ In day component heb ik in de render() functie 1 of meerdere <Meeting /> components aangemaakt.
+
 ☑ In de <Agenda /> component heb ik in de render() functie meerdere <Day /> components aangemaakt om meerdere dagen te laten zien. Met props stel ik de dag in (bijvoorbeeld de tekst welke dag het is). 
+
 ☑ Een <Agenda /> component gemaakt en die roep ik op in de ren-der() functie van app.jsx.
+
 ☑ Met Sass heb ik bovenstaande components gestyled.
 
 
